@@ -86,10 +86,10 @@ Provides the Application Binary Interface (ABI) to interact with the smart contr
 
 The project is collaboratively developed by:
 
-- **Vijay Krishna Rachamalla**  
-- **Mahesh Bodepalli**  
-- **Harshitha Puchakayala**  
-- **Goje Naveen**
+- [**Vijay Krishna Rachamalla**](https://github.com/Vijay-48)  
+- **Mahesh Boddepalli**
+- [**Harshitha Puchakayala**](https://github.com/Harshitha-Puchakayala)  
+- [**Goje Naveen**](https://github.com/goje-naveen)
 
 We welcome contributions from the community. See the [Contributing](#contributing) section below for details.
 
