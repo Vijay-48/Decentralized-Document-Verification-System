@@ -29,7 +29,7 @@ Decentralized-Document-Verification-System/
 ├── build/contracts
 │   └── DocumentVerification.json       # ABI for interacting with the contract
 ├── README.md                           # Project overview and setup guide
-└── .gitignore                          # Files to ignore in the repository
+└── brownie-config.yaml                 
 ```
 
 ---
