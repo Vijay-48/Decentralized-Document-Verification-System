@@ -1,0 +1,29 @@
+# brownie-config.yaml
+
+# Set default network
+networks:
+  default: development  # This sets the default network to 'development'
+
+  # Development network (e.g., Ganache)
+  development:
+    gas_limit: 6721975  # This is a typical block gas limit
+    gas_price: 20000000000  # 20 Gwei gas price
+
+  # Configure Rinkeby test network
+  rinkeby:
+    gas_limit: 6721975
+    gas_price: 20000000000
+    verify: False  # Set to True if you want to verify contract on Etherscan
+
+  # Configure other test networks or mainnet as needed
+  mainnet:
+    gas_limit: 6721975
+    gas_price: 20000000000
+
+# Custom settings for Solidity
+compiler:
+  solc:
+    version: "0.8.21"  # Specify the Solidity version
+    optimizer:
+      enabled: True
+      runs: 200
