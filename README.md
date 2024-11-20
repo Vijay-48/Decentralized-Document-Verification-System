@@ -47,13 +47,13 @@ Ensure the following are installed on your system:
 ## Getting Started
 
 ### 1. Install Dependencies
-```
+```bash
 pip install eth-brownie
 ```
 
 ### 2. Deploy the Contract
 Navigate to the project directory and run:
-```
+```bash
 brownie run scripts/deploy.py
 ```
 This script deploys the `DocumentVerification` smart contract and prints its address.
@@ -79,6 +79,19 @@ Provides the Application Binary Interface (ABI) to interact with the smart contr
 - **Frontend Integration**: A React-based user interface for seamless interactions.
 - **Enhanced Security**: Additional cryptographic measures for role verification.
 - **Scalability**: Support for Layer-2 solutions to reduce gas fees.
+
+---
+
+## Team
+
+The project is collaboratively developed by:
+
+- **Vijay Krishna Rachamalla**  
+- **Mahesh Bodepalli**  
+- **Harshitha Puchakayala**  
+- **Goje Naveen**
+
+We welcome contributions from the community. See the [Contributing](#contributing) section below for details.
 
 ---
 
